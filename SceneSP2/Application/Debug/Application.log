@@ -1,0 +1,88 @@
+﻿  SceneObstacle.cpp
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(38,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(41,34): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(43,40): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(79,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(82,21): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(101,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(343,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(503,118): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(532,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(549,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(550,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(575,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(576,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(602,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(603,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(628,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(629,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(755,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(773,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(832,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(846,27): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(1153,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(1166,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(1169,94): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(1215,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(1244,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(1260,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(1273,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(1308,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\SceneObstacle.cpp(1325,59): warning C4305: 'argument': truncation from 'double' to 'float'
+  mini_game_5.cpp
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(140,49): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(154,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(155,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(156,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(157,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(158,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(384,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(400,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(417,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(433,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(450,50): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(464,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(465,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(466,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(467,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(468,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(487,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(791,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(791,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(794,88): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(798,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(798,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(801,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(805,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(805,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(808,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(812,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(812,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(815,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(825,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(834,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(843,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(852,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(874,4): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(983,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(983,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(984,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(984,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(1418,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(1425,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(1432,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Application\Source\mini_game_5.cpp(1439,40): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Application.vcxproj -> C:\Users\yuzhe\Downloads\Studio_project_2-main\Studio_project_2-main\SceneSP2\Debug\Application.exe

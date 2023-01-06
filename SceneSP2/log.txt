@@ -1,0 +1,406 @@
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : songggze Commit : reset values when winning game 4
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Moved some tga into debug for Application.exe
+Author : SquishableRTWW Commit : ignore
+Author : songggze Commit : reverted something
+Author : ReaganTeng Commit : Improved play button
+Author : ReaganTeng Commit : Removed Reset camera, improved button collision
+Author : SquishableRTWW Commit : Game 1
+Author : SquishableRTWW Commit : Game 1 and 3
+Author : songggze Commit : reducing file size
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : replaced skybox and floor and deleted old targas
+Author : SquishableRTWW Commit : Removed manual change scene for now
+Author : SquishableRTWW Commit : game1
+Author : SquishableRTWW Commit : Added manual scene change
+Author : SquishableRTWW Commit : Deleting some images
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : songggze Commit : deleted more images
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : deleted some images
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : songggze Commit : removed a bunch of images
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Removed unnecessary OBJ and MTL Models
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : Edited sceneMain to show game name
+Author : songggze Commit : added day counter at top right
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : Game 1 and 3
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Removed GEO_AXES
+Author : WashPond Commit : tweaked some UI
+Author : ReaganTeng Commit : Shifted "Day 2" to right
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Removed money amount
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : ignore
+Author : ReaganTeng Commit : Edited application.cpp
+Author : ReaganTeng Commit : Added more questions
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Added two more tgas, added textures
+Author : SquishableRTWW Commit : Change starting scene back to scenemain
+Author : SquishableRTWW Commit : Revert "Attemping to cut the size of certain tgas"
+Author : SquishableRTWW Commit : Attemping to cut the size of certain tgas
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Added buildings in the background
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : Game 2
+Author : SquishableRTWW Commit : Game 3
+Author : SquishableRTWW Commit : ignore
+Author : ReaganTeng Commit : Changed back applciation.cpp
+Author : SquishableRTWW Commit : Whole game
+Author : ReaganTeng Commit : Changed Minigame2 UI
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Added door, fixed bug
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Did some Ui changes
+Author : SquishableRTWW Commit : ignore
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Changed wording
+Author : SquishableRTWW Commit : big fixing WIP for game 3
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : Fixed lighting bug
+Author : WashPond Commit : FIxed more bugs
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Randomised the timer
+Author : SquishableRTWW Commit : Fixed restart bug in game 1 and 3
+Author : ReaganTeng Commit : change app.cpp
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Fixed a bug in minigame2
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : fixed the bug
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : add timer. Timer works but need bug fixes
+Author : ReaganTeng Commit : Added game over screen
+Author : songggze Commit : game 4: made restart transition back to title screen
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Added distance checking
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : need push to pull (ignore)
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Did some debugging for the police timer
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Changed application.cpp
+Author : songggze Commit : added transition from game 4 to game 5
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : Game 1 and 3
+Author : ReaganTeng Commit : Shifted the table
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : need push to pull
+Author : ReaganTeng Commit : Added scene transition to other
+Author : SquishableRTWW Commit : Ignore
+Author : SquishableRTWW Commit : Added scene transition to game 1 and game 3
+Author : SquishableRTWW Commit : Implementing scene transition
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Added winning/losing condition
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : trying to fix git
+Author : WashPond Commit : ignore
+Author : WashPond Commit : ignore
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : testing a timer system
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Added random questions
+Author : SquishableRTWW Commit : Game 3
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : Game 3
+Author : SquishableRTWW Commit : Game 3
+Author : SquishableRTWW Commit : Added portal tga
+Author : SquishableRTWW Commit : Game 3
+Author : SquishableRTWW Commit : Game 3
+Author : SquishableRTWW Commit : Digits now will be collected and displayed
+Author : SquishableRTWW Commit : Game 3
+Author : SquishableRTWW Commit : Update MINI_GAME_3.ipch
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Added tutorial screen in minigame2
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Ignore again
+Author : WashPond Commit : Ignore
+Author : SquishableRTWW Commit : changed game 2 name in my own com
+Author : WashPond Commit : Added Progress Bar, Tutorial and UI
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : songggze Commit : fixed a bug
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : Game 3
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : songggze Commit : visual adjustments
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Edited Application.cpp, Renamed second minigame
+Author : SquishableRTWW Commit : Game 3
+Author : SquishableRTWW Commit : edited game 1 interaction slgihtly
+Author : SquishableRTWW Commit : ignore
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Tested that the player wins after completing 4 calls and tried to make the police move
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : songggze Commit : added restart option when fail
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : Game 3
+Author : ReaganTeng Commit : Added Scene_minigame2
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : songggze Commit : Added tutorial and background UI for text
+Author : SquishableRTWW Commit : Game 3
+Author : SquishableRTWW Commit : Game 3
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : Game 3
+Author : songggze Commit : Added win condition and timer at top right
+Author : SquishableRTWW Commit : Game 3
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : Maze rendering WIP
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Ignore
+Author : SquishableRTWW Commit : Added maze boundaries
+Author : SquishableRTWW Commit : ignnore
+Author : ReaganTeng Commit : Added clicking system
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : ignore
+Author : SquishableRTWW Commit : ignore
+Author : WashPond Commit : Fully added boundaries and interactions with phone.
+Author : songggze Commit : various changes (see description)
+Author : SquishableRTWW Commit : password generation works, radnom each time as well
+Author : SquishableRTWW Commit : Digits can now be rendered
+Author : SquishableRTWW Commit : Added digit tgas for game 3
+Author : SquishableRTWW Commit : Able to successfully render wall
+Author : SquishableRTWW Commit : Rendered skybox and floor for game 3
+Author : SquishableRTWW Commit : Added skybox tgas to game3
+Author : SquishableRTWW Commit : Cleaned off code in mini_game_3
+Author : SquishableRTWW Commit : Update .suo
+Author : SquishableRTWW Commit : Added third game to Application.cpp
+Author : SquishableRTWW Commit : Added files for third game
+Author : SquishableRTWW Commit : Game 1 edits
+Author : SquishableRTWW Commit : WIP for game1 scoring and winlose condition
+Author : SquishableRTWW Commit : Made NPC disappear after giving scam
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : Update mini_game_1.cpp
+Author : SquishableRTWW Commit : scoring system for game1 WIP
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : Update .suo
+Author : SquishableRTWW Commit : Collision for table and NPCs done
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : Game 1 update
+Author : SquishableRTWW Commit : Giving scam interaction WIP
+Author : SquishableRTWW Commit : Added score into UI (Game 1)
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Added Naruto model
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : Talking to NPC fully implemented
+Author : ReaganTeng Commit : Changed Scenemain, Added some things
+Author : songggze Commit : added "iframes" for collisions
+Author : SquishableRTWW Commit : Create MINI_GAME_1.ipch
+Author : SquishableRTWW Commit : Delete MINI_GAME_1.ipch
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : Game 1 talking interaction WIP
+Author : WashPond Commit : ignore again
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Ignore
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : Editing game 1
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : songggze Commit : police now can track you
+Author : SquishableRTWW Commit : Tutorial fully implemented for game 1
+Author : SquishableRTWW Commit : Tutorial WIP
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Added Multiple Lights and policeman
+Author : SquishableRTWW Commit : Update .gitignore
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : adding tutorial text for game 1 (WIP)
+Author : songggze Commit : added med kit with simple rotate animation
+Author : SquishableRTWW Commit : tutorial testing for game 1
+Author : SquishableRTWW Commit : minor adjustment ignore
+Author : SquishableRTWW Commit : fix small bug
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : ignore
+Author : songggze Commit : added police model and collision (and you can jump over them :D )
+Author : SquishableRTWW Commit : NPC interaction WIP
+Author : SquishableRTWW Commit : fixed a bug game 1
+Author : SquishableRTWW Commit : added text for NPC interaction
+Author : SquishableRTWW Commit : wirking on NPC interaction
+Author : SquishableRTWW Commit : fixed interaction bugs
+Author : SquishableRTWW Commit : ficing interaction bugs wip
+Author : SquishableRTWW Commit : Added interaction for all 5 scams
+Author : SquishableRTWW Commit : Minor edit in game 1 can ignore
+Author : SquishableRTWW Commit : Added variables for NPC interaction game 1
+Author : SquishableRTWW Commit : implemented basic pick up interaction
+Author : SquishableRTWW Commit : game 1 WIP
+Author : SquishableRTWW Commit : adding to game 1
+Author : SquishableRTWW Commit : Adding text to interaction (test)
+Author : SquishableRTWW Commit : Update mini_game_1.cpp
+Author : SquishableRTWW Commit : iteraction game 1 wip
+Author : SquishableRTWW Commit : edited mini game 1
+Author : WashPond Commit : Ignore
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Added Boundaries and Rendered Phones
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : songggze Commit : added collision to buidling and one more building type
+Author : SquishableRTWW Commit : adding interaction checking
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : Game 1 interactions WIP
+Author : SquishableRTWW Commit : Adding new functions to show interaction in game 1
+Author : SquishableRTWW Commit : Added text UI for game 1
+Author : SquishableRTWW Commit : adjusted game 1 camera speed
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : minor edits to game 1 kindly ignore
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : Implemented simple boundary in game 1
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : songggze Commit : added randomised building rendering
+Author : SquishableRTWW Commit : Im very sad so I added another camera specifically for my scene
+Author : SquishableRTWW Commit : Game 1 collision WIP
+Author : SquishableRTWW Commit : adjusted camera code slightly
+Author : SquishableRTWW Commit : ignore
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : songggze Commit : changed boundaries for z axis
+Author : SquishableRTWW Commit : adjusted NPC size
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : working on collision in game 1
+Author : songggze Commit : changed to fixed camera angle
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Changed SceneMain
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Rendered Buildings and Roads onto Game 5
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : songggze Commit : Added jumping
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : rendered all 5 scams
+Author : SquishableRTWW Commit : rendered 4 scams
+Author : SquishableRTWW Commit : WIP editing scams
+Author : SquishableRTWW Commit : edited cam angle in gme 1 again
+Author : SquishableRTWW Commit : attempting to render first scam in game 1
+Author : SquishableRTWW Commit : edited game1 camera angle, removed a ball
+Author : SquishableRTWW Commit : Rendered NPCs in game 1
+Author : SquishableRTWW Commit : edits in game 1
+Author : SquishableRTWW Commit : Update .gitignore
+Author : SquishableRTWW Commit : edits to game 1
+Author : SquishableRTWW Commit : added more tables to game 1
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : edited mini game 1
+Author : ReaganTeng Commit : Commented on application.cpp
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Changed SceneMain
+Author : SquishableRTWW Commit : generated the other 4 scams
+Author : SquishableRTWW Commit : Testing rendering first scam in game 1
+Author : SquishableRTWW Commit : Added scam .tga (s)
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : Added NPC
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : edited miniGame1
+Author : SquishableRTWW Commit : Finally found a brown table
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : ignore
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : songggze Commit : Changed skybox image
+Author : WashPond Commit : Ignore Again sorry
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Ignore
+Author : WashPond Commit : Added Ground Mesh and some building in game 5
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : Table does not work, removing it
+Author : SquishableRTWW Commit : trying another desk OBJ
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : Changed scenes so that it is more organised
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Added Mr Tang's objs in FromPracticals folder
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2 into main
+Author : SquishableRTWW Commit : fixing lights WIP
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2 into main
+Author : SquishableRTWW Commit : added a space ignore this
+Author : WashPond Commit : Added and rendered Skybox For Game 5. Also added models for traffic light, phone and buildings.
+Author : SquishableRTWW Commit : Adding multiple lights to game 1
+Author : SquishableRTWW Commit : Still adjusting lights
+Author : SquishableRTWW Commit : updated light in game 1
+Author : SquishableRTWW Commit : Update .gitignore
+Author : SquishableRTWW Commit : Update .gitignore
+Author : SquishableRTWW Commit : edited mini game 1
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : ignore
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : minor adjustements
+Author : songggze Commit : Skybox
+Author : songggze Commit : Skybox
+Author : songggze Commit : Skybox
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Added lightball
+Author : SquishableRTWW Commit : Trying to fix OBJMTL in meshbuilder
+Author : SquishableRTWW Commit : Finished 4 walls in mini_game_1
+Author : SquishableRTWW Commit : edited mini game 1
+Author : SquishableRTWW Commit : Update .gitignore
+Author : SquishableRTWW Commit : updated mini game 1
+Author : SquishableRTWW Commit : Update MINI_GAME_1.ipch
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : Ignore
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : Adding room walls in game 1 WIP
+Author : ReaganTeng Commit : Changes stated below
+Author : SquishableRTWW Commit : Changed camera so its position.y is fixed at 7 instead of 60
+Author : SquishableRTWW Commit : Added groundmesh to game 1
+Author : SquishableRTWW Commit : added lightball to mini_game_1
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2 into main
+Author : WashPond Commit : ignore
+Author : SquishableRTWW Commit : ignore
+Author : SquishableRTWW Commit : fixed bug in mini_game)1
+Author : SquishableRTWW Commit : fixed another exception thrown
+Author : SquishableRTWW Commit : fixed exception thrown
+Author : SquishableRTWW Commit : There wad a problem with SCeneMain
+Author : SquishableRTWW Commit : ignore again sorry boys
+Author : SquishableRTWW Commit : ignore again sorry boys
+Author : SquishableRTWW Commit : ignore
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2 into main
+Author : SquishableRTWW Commit : ignore
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2 into main
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : Ignore .db files
+Author : WashPond Commit : Rename the class in mini game 5 .h and .cpp
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : songggze Commit : Added OBJ file and police model
+Author : ReaganTeng Commit : Changed SceneMain
+Author : SquishableRTWW Commit : edited mini-game 1
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : SquishableRTWW Commit : ignore
+Author : songggze Commit : Added SceneObstacle
+Author : songggze Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : songggze Commit : test
+Author : WashPond Commit : added minigame5 .cpp & .h
+Author : ReaganTeng Commit : Added SceneMain
+Author : WashPond Commit : Ignore
+Author : WashPond Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2 into main
+Author : WashPond Commit : Ignore, since binary file changed
+Author : SquishableRTWW Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : WashPond Commit : ignore
+Author : WashPond Commit : .
+Author : SquishableRTWW Commit : Added an Images folder and put game 1 skybox in it
+Author : SquishableRTWW Commit : Added a new scene for the first mini-game
+Author : SquishableRTWW Commit : Ignore, need to push as binary file has changed
+Author : ReaganTeng Commit : Change background rgb to blue
+Author : ReaganTeng Commit : Merge branch 'main' of https://github.com/ReaganTeng/Studio_project_2
+Author : ReaganTeng Commit : Uncommented an error
+Author : ReaganTeng Commit : Uncommented an error
+Author : ReaganTeng Commit : Framework
